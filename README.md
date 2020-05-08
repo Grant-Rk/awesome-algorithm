@@ -38,6 +38,7 @@ Focused on help mastering the algorithm and data structure in more efficient and
     Dynamic Programming
     Binary Search
     Greedy
-    String-related
+    String-related (find, KMP, BM)
+    Graph-related (Dijkstra, Floyd, 
+    Sorting
     Math
-
