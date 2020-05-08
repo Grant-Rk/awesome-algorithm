@@ -7,7 +7,7 @@ Focused on help mastering the algorithm and data structure in more efficient and
 - Cheatsheet along with BrainMap
 
 
-### Data structures to cover
+### Data structures
 #### Linear
     Array
     Linked List (single and double)
